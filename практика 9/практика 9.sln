@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "практика 9", "практика 9.csproj", "{00A64987-7359-463E-9A7D-5A34BCB1FBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualArray", "..\VisualArray\VisualArray.csproj", "{188FE79A-B901-49E9-8728-F2D8DF9729F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A64987-7359-463E-9A7D-5A34BCB1FBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A64987-7359-463E-9A7D-5A34BCB1FBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A64987-7359-463E-9A7D-5A34BCB1FBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A64987-7359-463E-9A7D-5A34BCB1FBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188FE79A-B901-49E9-8728-F2D8DF9729F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188FE79A-B901-49E9-8728-F2D8DF9729F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188FE79A-B901-49E9-8728-F2D8DF9729F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188FE79A-B901-49E9-8728-F2D8DF9729F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00EC1F3C-D0F0-49E8-A569-7FD4453EBAAB}
+	EndGlobalSection
+EndGlobal
